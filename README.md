@@ -1,5 +1,5 @@
 # FullStack2024
 
-![-part0 Exercises](part0/report.md)
+![-part0 Exercises](Part0/report.md)
 
-![-part1 Exercises](part1/)
+![-part1 Exercises](Part1/)
